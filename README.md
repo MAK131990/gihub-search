@@ -1,6 +1,8 @@
 # gihub-search
-npm install
-npm run webpack
-npm start
+1)npm install
 
-browse: localhost:8080
+2)npm run webpack
+
+3)npm start
+
+4)browse: localhost:8080
